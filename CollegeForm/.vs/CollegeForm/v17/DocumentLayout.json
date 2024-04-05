@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|c:\\users\\tanishq doke\\desktop\\git-session\\dotnet\\collegeform\\collegeform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|solutionrelative:collegeform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\collegeform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|solutionrelative:collegeform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|c:\\users\\tanishq doke\\desktop\\git-session\\dotnet\\collegeform\\collegeform\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|solutionrelative:collegeform\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\collegeform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|solutionrelative:collegeform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|c:\\users\\tanishq doke\\desktop\\git-session\\dotnet\\collegeform\\collegeform\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6EA4B4-FD71-4BCF-9210-8A2CC48BD612}|CollegeForm\\CollegeForm.csproj|solutionrelative:collegeform\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Calculator.Designer.cs",
+              "RelativeDocumentMoniker": "CollegeForm\\Calculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Calculator.Designer.cs",
+              "RelativeToolTip": "CollegeForm\\Calculator.Designer.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAewGEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:21:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Calculator.cs",
+              "RelativeDocumentMoniker": "CollegeForm\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Calculator.cs [Design]",
+              "RelativeToolTip": "CollegeForm\\Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:21:37.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Form3.cs",
+              "RelativeDocumentMoniker": "CollegeForm\\Form3.cs",
+              "ToolTip": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Form3.cs",
+              "RelativeToolTip": "CollegeForm\\Form3.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADgv0MAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:13:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Form3.cs",
+              "RelativeDocumentMoniker": "CollegeForm\\Form3.cs",
+              "ToolTip": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Form3.cs [Design]",
+              "RelativeToolTip": "CollegeForm\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:58:47.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Program.cs",
+              "RelativeDocumentMoniker": "CollegeForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanishq Doke\\Desktop\\Git-Session\\DotNet\\CollegeForm\\CollegeForm\\Program.cs",
+              "RelativeToolTip": "CollegeForm\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:12:44.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
